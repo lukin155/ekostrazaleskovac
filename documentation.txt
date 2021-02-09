@@ -1,0 +1,4 @@
+CSV files downloaded from: https://api-rrd.madavi.de/csvfiles.php?sensor=
+
+Color coding (just the colors, not the ranges) taken from: https://aqicn.org/scale/
+Ranges/boundaries taken from: https://en.wikipedia.org/wiki/Particulates#European_Union (can be changed in settings.py)
